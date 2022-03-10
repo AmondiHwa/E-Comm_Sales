@@ -1,4 +1,6 @@
 # E-Comm_Sales
+A global analysis overview of c2c retail businesses.
+***
 
 # About
 The trajectory of this project was to analyze the data and identify any possible relationships. As well as constructing a predictive value in Total Products Sold for comparison and finding the root mean squared errors.
@@ -14,6 +16,8 @@ The MSE models for out and in sample data are identical and farther from 0. Futh
 * Numpy
 * Matplotlib
 * Hvplot
+
+* Dataset from data.world
 
 # Questions?
 
