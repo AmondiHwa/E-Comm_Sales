@@ -3,7 +3,7 @@ A global analysis overview of c2c retail businesses.
 ***
 
 # About
-The trajectory of this project was to analyze the data and identify any possible relationships. As well as constructing a predictive value in Total Products Sold for comparison and finding the root mean squared errors.
+The trajectory of this project is to analyze the data and identify any possible patterns. In addition, to constructing a predictive value in Total Products Sold for comparison among the global market. Based on the comparison, I executed the finding of the root mean squared errors to determine any errors in the predictive model.
 
 # Prediction Bar Chart
 ![bokeh_plot](https://user-images.githubusercontent.com/97075894/157712953-e9bd19d1-1804-4c26-bae2-f225de0c2209.png)
